@@ -4,6 +4,11 @@ Palestra | Mesa-redonda
 
 Oliveira, R. (2024)
 
+<a href="url"><img src="https://github.com/Rogerio-mack/Catedra_Diseno_Arte_y_Ciencia_2024/blob/main/fundo.png?raw=true" width="360" >
+
+<br>
+
+
 #### IA Generativa: fundamentos, usos e riscos.
 
 A partir dos princípios dos modelos de redes neurais e do aprendizado profundo vamos buscar entender em que de fato consistem os algoritmos de IA Generativa.
@@ -15,7 +20,10 @@ Basándonos en los principios de los modelos de redes neuronales y el aprendizaj
 De esta manera podremos comprender mejor los alcances, limitaciones, riesgos e impactos de la aplicación de esta tecnología.
 
 * Chamada: https://labdesign.maua.br/index.php/event/paisagens-hibridas-3/
-* Vídeo: https://youtu.be/PJwuN-d7OA8?si=jL-6--bllPrbJkSF
+* YouTube: https://youtu.be/PJwuN-d7OA8?si=jL-6--bllPrbJkSF
+* Download Presentation: [*Portuguese*](https://github.com/Rogerio-mack/Catedra_Diseno_Arte_y_Ciencia_2024/raw/main/IMT_palestra_Generative_AI.pptx)
+| [*Spanish*](https://github.com/Rogerio-mack/Catedra_Diseno_Arte_y_Ciencia_2024/raw/main/IMT_palestra_Generative_AI_spanish.pptx) 
+
 
 <br>
 <br>
@@ -24,6 +32,6 @@ A Cátedra é concebida como um sistema aberto que facilita a aplicação de met
 
 #### Cátedra Parcerias Institucionais 
 Dr. Felipe César Londoño – Universidad Jorge Tadeo Losano / Dr. Martin Groissman – Universidad de Buenos Aires / Dr. Daniel Cruz – Universidad de Chile / Dr. Cleomar Rocha – Media Lab/BR / Dra. Tania Redo – Universidad Nacional Autónoma de México
-A rede Media Lab / BR Media Lab / UFG – GO, Media Lab/UNIFESSPA – PA, Media Lab / UnB – DF, Media Lab / PUC-Campinas – SP, Media Lab / MAUÁ – SP ) / UNESP – SP, Media Lab / UFMT – MT, Media Lab / UNICAMP – SP, Media Lab integra a organização da Cátedra de Diseño, Arte y Ciencia com a Universidad Jorge Tadeu Lozano , Colômbia, em 2024/1.
+A rede Media Lab / BR Media Lab / UFG – GO, Media Lab/UNIFESSPA – PA, Media Lab / UnB – DF, Media Lab / PUC-Campinas – SP, **Media Lab / MAUÁ – SP** ) / UNESP – SP, Media Lab / UFMT – MT, Media Lab / UNICAMP – SP, Media Lab integra a organização da Cátedra de Diseño, Arte y Ciencia com a Universidad Jorge Tadeu Lozano , Colômbia, em 2024/1.
 
 
